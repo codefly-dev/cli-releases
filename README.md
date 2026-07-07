@@ -10,5 +10,5 @@ brew install codefly
 ## Linux
 
 ```shell
-curl -s https://raw.githubusercontent.com/codefly-dev/cli-releases/main/install/linux.sh | bash
+ curl -s https://raw.githubusercontent.com/codefly-dev/cli-releases/main/install/linux.sh | bash
 ```
